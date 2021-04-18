@@ -9,7 +9,13 @@ The data that bobby needed was only in 6 CSV files because the company was mainl
 Our Task was to help Bobby build an employee database with SQL by applying our data modeling, engineering, and analysis skills.
 
 ## Challenge Overview
-After generating the report Bobby's manager gave us two more assignments. 
+After generating the report Bobby's manager gave us two more assignments -
 1. Determine the number of retiring employees per title.
 2. Identify employees who are eligible to participate in a mentorship program.
+
+## Results 
+- We created SQL queries to generate a list with the number of retiring employees by Title. But with the generated list we noticed there are duplicate entries for some employees because they have switched titles over the years
+![image](https://user-images.githubusercontent.com/78935551/115163057-f8750080-a074-11eb-86db-5814a8640322.png)
+
+
 
