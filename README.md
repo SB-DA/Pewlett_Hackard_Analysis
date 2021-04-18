@@ -20,7 +20,15 @@ After generating the report Bobby's manager gave us two more assignments -
 
 ![image](https://user-images.githubusercontent.com/78935551/115163393-e7c58a00-a076-11eb-8398-eaeb5883cd47.png)
 
-- 
+- We created another file to retrieve the number of employees by their most recent job title who are about to retire. This count of employees gives us a clear picture on how many employees are about to retire and that's quite a lot of employees. 29,414 are Senior Engineers. Pewlett Hackard might have to promote employees in similar role or hire for senior positions.
+
+![image](https://user-images.githubusercontent.com/78935551/115163732-be0d6280-a078-11eb-8eea-a8ac36b1be9e.png)
+
+- Using our knowledge of SQL queries, we created a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965. This is a great approach so that the new staffs are well trained and they recieve guidance, motivation, support, and role modeling. 
+
+![image](https://user-images.githubusercontent.com/78935551/115165170-97502b80-a07a-11eb-8806-13e13b8b962d.png)
+
+
 
 
 
