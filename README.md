@@ -16,17 +16,19 @@ After generating the report Bobby's manager gave us two more assignments -
 ## Results 
 - We created SQL queries to generate a list with the number of retiring employees by Title. But with the generated list we noticed there were duplicate entries for some employees because they had switched titles over the years.
 
-- We then created queries to retrieve employees with most recent recent job title about to retire. Below you can see a list of employes with their latest titles.
+- We then created queries to retrieve employees with the most recent job title about to retire. Below you can see a list of employees with their latest titles.
 
 ![image](https://user-images.githubusercontent.com/78935551/115163393-e7c58a00-a076-11eb-8398-eaeb5883cd47.png)
 
-- We created another file to retrieve the number of employees by their most recent job title who are about to retire. This count of employees gives us a clear picture on how many employees are about to retire and that's quite a lot of employees. 29,414 are Senior Engineers. Pewlett Hackard might have to promote employees in similar role or hire for senior positions.
+- Another file was created to retrieve the number of employees by their most recent job title who are about to retire. This count of employees gives us a clear picture of how many employees are about to retire and that's quite a lot of employees. 29,414 are Senior Engineers. Pewlett Hackard might have to promote employees in a similar role or hire for senior positions.
 
 ![image](https://user-images.githubusercontent.com/78935551/115163732-be0d6280-a078-11eb-8eea-a8ac36b1be9e.png)
 
-- Using our knowledge of SQL queries, we created a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965. This is a great approach so that the new staffs are well trained and they recieve guidance, motivation, support, and role modeling. 
+- Using our knowledge of SQL queries, we created a mentorship-eligibility table that holds the current employees who were born between January 1, 1965, and December 31, 1965. This is a great approach so that the new staffs are well trained and they receive guidance, motivation, support, and role modeling. this list had almost 1549 employees who were eligible for mentorship and majority of them are Senior staff or Department Leaders.
 
-![image](https://user-images.githubusercontent.com/78935551/115165170-97502b80-a07a-11eb-8806-13e13b8b962d.png)
+![image](https://user-images.githubusercontent.com/78935551/115165206-d8484000-a07a-11eb-8e0f-77b9ca25f9d2.png)
+
+
 
 
 
