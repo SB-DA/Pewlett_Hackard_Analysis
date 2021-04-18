@@ -31,7 +31,7 @@ After generating the report Bobby's manager gave us two more assignments -
 ## Summary
 Aging baby boomers are going to retire in large numbers. Seeing decades of knowledge and skills walk out of the door. If they have not prepared for those departures, The company could end up with critical gaps in their talent and knowledge bases.
 
-- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+#### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 The count list above indicates that more than 90,300 employees will retire in the next few years. Most of them holding higher positions. I think the key here is to be proactive instead of waiting for a large number of employees to retire. It's a chain of actions, where Pewlett Hackard will have to start hiring employees for roles that have a lot of retiring employees, and offer retirement packages to those soon to retire.
 
