@@ -28,6 +28,13 @@ After generating the report Bobby's manager gave us two more assignments -
 
 ![image](https://user-images.githubusercontent.com/78935551/115165206-d8484000-a07a-11eb-8e0f-77b9ca25f9d2.png)
 
+## Summary
+As aging Baby Boomers retire in large numbers, employers are seeing decades if not centuries of cumulative knowledge and skills walk out the door. If they have not prepared for those departures, The company could end up with critical gaps in their talent and knowledge bases.
+
+How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 
 
 
