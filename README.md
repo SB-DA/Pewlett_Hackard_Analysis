@@ -14,8 +14,14 @@ After generating the report Bobby's manager gave us two more assignments -
 2. Identify employees who are eligible to participate in a mentorship program.
 
 ## Results 
-- We created SQL queries to generate a list with the number of retiring employees by Title. But with the generated list we noticed there are duplicate entries for some employees because they have switched titles over the years
-![image](https://user-images.githubusercontent.com/78935551/115163057-f8750080-a074-11eb-86db-5814a8640322.png)
+- We created SQL queries to generate a list with the number of retiring employees by Title. But with the generated list we noticed there are duplicate entries for some employees because they have switched titles over the years.
+
+![image](https://user-images.githubusercontent.com/78935551/115163349-a2a15800-a076-11eb-8673-e6c8f5b1f795.png)
+
+- 
+![image](https://user-images.githubusercontent.com/78935551/115163366-b77deb80-a076-11eb-8258-1851add60a4c.png)
+
+
 
 
 
