@@ -35,13 +35,8 @@ Aging baby boomers are going to retire in large numbers. Seeing decades of knowl
 
 The count list above indicates that more than 90,300 employees will retire in the next few years. Most of them holding higher positions. I think the key here is to be proactive instead of waiting for a large number of employees to retire. It's a chain of actions, where Pewlett Hackard will have to start hiring employees for roles that have a lot of retiring employees, and offer retirement packages to those soon to retire.
 
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-
-
-
-
-
-
+#### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+There are just 1549 employees who are eligible for mentorship. Based on the fact that thousands of employees will be retiring in coming years, this is still insufficient. A better recruitment system needs to be implemented. The Human Resource team has a big task ahead.
 
 
 
